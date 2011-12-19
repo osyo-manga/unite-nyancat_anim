@@ -1,0 +1,4 @@
+" see image http://cdn-ak.f.st-hatena.com/images/fotolife/o/osyo-manga/20111220/20111220025732.gif
+
+" example command
+:Unite -update-time=10 -winheight=30 nyancat_anim
